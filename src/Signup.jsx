@@ -84,7 +84,7 @@ export default function SignupForm() {
         </form>
 
         <p className="login-text">
-          Already have an account? <a href="/home">Login</a>
+          Already have an account? <a href="/Login">Login</a>
         </p>
 
         <div className="divider">
